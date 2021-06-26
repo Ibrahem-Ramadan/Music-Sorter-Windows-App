@@ -1,0 +1,233 @@
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\bin\Debug\GUIFile.exe.config
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\bin\Debug\GUIFile.exe
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\bin\Debug\GUIFile.pdb
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.exe
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.pdb
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.StartForm.resources
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.PlayList.resources
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmed Reda\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\bin\Debug\GUIFile.exe
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\bin\Debug\GUIFile.exe.config
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\Interop.WMPLib.dll
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.PlayList.resources
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.StartForm.resources
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.exe
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.pdb
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\bin\Debug\GUIFile.pdb
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\bin\Debug\Interop.WMPLib.dll
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HEMA\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+E:\sana2.term2\Files\project\GUIFile\GUIFile\bin\Debug\GUIFile.exe.config
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\Interop.WMPLib.dll
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\GUIFile.exe
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\GUIFile.pdb
+E:\sana2.term2\Files\project\GUIFile\GUIFile\bin\Debug\GUIFile.exe
+E:\sana2.term2\Files\project\GUIFile\GUIFile\bin\Debug\GUIFile.pdb
+E:\sana2.term2\Files\project\GUIFile\GUIFile\bin\Debug\Interop.WMPLib.dll
+E:\sana2.term2\Files\project\GUIFile\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\GUIFile.PlayList.resources
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\GUIFile.StartForm.resources
+E:\sana2.term2\Files\project\GUIFile\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\GUIFile\GUIFile\bin\Debug\GUIFile.exe.config
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.exe
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.pdb
+C:\Users\dell\Desktop\GUIFile\GUIFile\bin\Debug\GUIFile.exe
+C:\Users\dell\Desktop\GUIFile\GUIFile\bin\Debug\GUIFile.pdb
+C:\Users\dell\Desktop\GUIFile\GUIFile\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\GUIFile\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.PlayList.resources
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.StartForm.resources
+C:\Users\dell\Desktop\GUIFile\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\GUIFile\GUIFile\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\dell\Desktop\GUIFile\GUIFile\bin\Debug\taglib-sharp.dll
+C:\Users\dell\Desktop\GUIFile\GUIFile\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\dell\Desktop\resh\GUIFile\bin\Debug\GUIFile.exe.config
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\GUIFile.exe
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\GUIFile.pdb
+C:\Users\dell\Desktop\resh\GUIFile\bin\Debug\GUIFile.exe
+C:\Users\dell\Desktop\resh\GUIFile\bin\Debug\GUIFile.pdb
+C:\Users\dell\Desktop\resh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\dell\Desktop\resh\GUIFile\bin\Debug\taglib-sharp.dll
+C:\Users\dell\Desktop\resh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\dell\Desktop\resh\GUIFile\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\resh\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\GUIFile.PlayList.resources
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\GUIFile.StartForm.resources
+C:\Users\dell\Desktop\resh\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\re_sh\GUIFile\bin\Debug\GUIFile.exe.config
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\GUIFile.exe
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\GUIFile.pdb
+C:\Users\dell\Desktop\re_sh\GUIFile\bin\Debug\GUIFile.exe
+C:\Users\dell\Desktop\re_sh\GUIFile\bin\Debug\GUIFile.pdb
+C:\Users\dell\Desktop\re_sh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\dell\Desktop\re_sh\GUIFile\bin\Debug\taglib-sharp.dll
+C:\Users\dell\Desktop\re_sh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\dell\Desktop\re_sh\GUIFile\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\Desktop\re_sh\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\GUIFile.PlayList.resources
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\GUIFile.StartForm.resources
+C:\Users\dell\Desktop\re_sh\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\bin\Debug\GUIFile.exe.config
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\bin\Debug\GUIFile.exe
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\bin\Debug\GUIFile.pdb
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\bin\Debug\taglib-sharp.dll
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\bin\Debug\Interop.WMPLib.dll
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\Interop.WMPLib.dll
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\GUIFile.PlayList.resources
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\GUIFile.StartForm.resources
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\GUIFile.exe
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\GUIFile.pdb
+C:\Users\HEMA\Desktop\re_sh\re_sh\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\GUIFile.exe.config
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\GUIFile.exe
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\GUIFile.pdb
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\taglib-sharp.dll
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.PlayList.resources
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.StartForm.resources
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.exe
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.pdb
+C:\Users\Ahmed Reda\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\GUIFile.exe
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\taglib-sharp.dll
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\Interop.WMPLib.dll
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\GUIFile.exe.config
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\Interop.WMPLib.dll
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.PlayList.resources
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.StartForm.resources
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.exe
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\obj\Debug\GUIFile.pdb
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\GUIFile.pdb
+C:\Users\HEMA\Desktop\FilePRoject\re_sh\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\bin\Debug\GUIFile.exe.config
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\bin\Debug\GUIFile.exe
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\bin\Debug\GUIFile.pdb
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\bin\Debug\taglib-sharp.dll
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\bin\Debug\Interop.WMPLib.dll
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\Interop.WMPLib.dll
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\GUIFile.PlayList.resources
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\GUIFile.StartForm.resources
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\GUIFile.exe
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\GUIFile.pdb
+C:\Users\HEMA\Desktop\He_Re_Os - Copy\re_sh\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\bin\Debug\GUIFile.exe.config
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\Interop.WMPLib.dll
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.exe
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.pdb
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\bin\Debug\GUIFile.exe
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\bin\Debug\GUIFile.pdb
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\bin\Debug\taglib-sharp.dll
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\bin\Debug\Interop.WMPLib.dll
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.PlayList.resources
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.StartForm.resources
+C:\Users\HEMA\Desktop\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\bin\Debug\GUIFile.exe.config
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\Interop.WMPLib.dll
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\AxInterop.WMPLib.dll
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.csproj.ResolveComReference.cache
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.exe
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.pdb
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\bin\Debug\GUIFile.exe
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\bin\Debug\GUIFile.pdb
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\bin\Debug\taglib-sharp.dll
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\bin\Debug\policy.2.0.taglib-sharp.config
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\bin\Debug\Interop.WMPLib.dll
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\bin\Debug\AxInterop.WMPLib.dll
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.csprojResolveAssemblyReference.cache
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.BrowseForm.resources
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.PlayList.resources
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.Properties.Resources.resources
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.SortingForm.resources
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.StartForm.resources
+F:\FCIS\Study Projects\Final File Project\TeamNo.42\GUIFile\obj\Debug\GUIFile.csproj.GenerateResource.Cache
